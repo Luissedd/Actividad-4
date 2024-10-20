@@ -181,4 +181,12 @@ span.stickers{
 img.stickerTwo{
     float: right;
 }
-
+footer{
+    background-color: #333333;
+    width: 100%;
+    color: white;
+    box-shadow: 0px 0px 2px gray;
+}
+footer p{
+    text-align: center;
+}
